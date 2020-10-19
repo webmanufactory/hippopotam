@@ -427,9 +427,6 @@ body {
   background-color: #ffffff;
 }
 
-.main__wrapper {
-}
-
 .main__title {
   margin-bottom: 60px;
   font-size: calc(35px + 25 * ((100vw - 320px) / 1600));
@@ -526,6 +523,7 @@ body {
   position: relative;
   flex: 0 0 33.333334%;
   width: 33.333334%;
+  background-color: #62cc82;
   cursor: url(../src/img/cursor.png), auto;
 }
 
@@ -773,6 +771,7 @@ body {
   align-items: center;
   width: 465px;
   height: 370px;
+  background-color: #7d7e7e;
   cursor: url(../src/img/cursor.png), auto;
 }
 .success__item:hover .success__title {
