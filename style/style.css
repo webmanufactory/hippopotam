@@ -683,7 +683,7 @@ body {
   content: "";
   width: 53px;
   height: 53px;
-  background: url(../src/img/quote_left.png) center/cover no-repeat;
+  background: url(../src/img/icons/quote_left.png) center/cover no-repeat;
 }
 
 .quote__description::after {
@@ -694,7 +694,7 @@ body {
   content: "";
   width: 53px;
   height: 53px;
-  background: url(../src/img/quote_right.png) center/cover no-repeat;
+  background: url(../src/img/icons/quote_right.png) center/cover no-repeat;
 }
 
 .quote__author {
